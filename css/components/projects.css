@@ -58,3 +58,38 @@
       min-width: auto;
     }
   }
+  
+  
+.Projeto-2{
+  width: 384px;
+  height: 240px;
+}
+
+
+.image1 {
+  position: relative;
+  width: 384px;
+  height: 240px;
+}
+
+/* Estilo para o ícone de loading */
+.c-loading {
+  animation: is-rotating 1s infinite;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 6px solid #e5e5e5;
+  border-top-color:#51d4db ;
+  margin-left: 145px;
+  margin-top: -100px;
+}
+
+@keyframes is-rotating{
+  to{
+    transform: rotate(1turn);
+  }
+}
+
+.cor{
+  color: rgb(77, 167, 167);
+}
