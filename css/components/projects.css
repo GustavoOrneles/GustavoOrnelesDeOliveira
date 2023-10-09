@@ -72,7 +72,7 @@
   height: 240px;
 }
 
-/* Estilo para o ícone de loading */
+
 .c-loading {
   animation: is-rotating 1s infinite;
   width: 50px;
