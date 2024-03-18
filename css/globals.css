@@ -70,10 +70,13 @@
     font-weight: 400;
     font-size: 1.4rem;
   }
+<<<<<<< HEAD
 
   .skills__item {
     margin-top: 90px;
   }
+=======
+>>>>>>> b5779bf17e7f9c0b0a148b5871fe719be1314dbe
   
   .max-width {
     width: 100%;
@@ -102,6 +105,7 @@
   .mb-xl {
     margin-bottom: 6rem;
   }
+<<<<<<< HEAD
 
   .notebooks{
     border-radius: 60%;
@@ -117,6 +121,8 @@
   }
 
 
+=======
+>>>>>>> b5779bf17e7f9c0b0a148b5871fe719be1314dbe
   
   @media only screen and (max-width: 1024px) {
     html {
